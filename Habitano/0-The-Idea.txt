@@ -1,0 +1,28 @@
+I want to Make it SPA project 
+
+1- There is a Pool Of tasks That you Must Finish EveryDay :
+    = Every Day you Get the Tasks AND reminders and Stuff you Need 
+    [ ALL together in this Pool which is the main list]
+
+2- User Dashboard Management : (Types Of Lists)
+    - TODOS list [ Normal List for Singular Tasks ]
+    - Calender List [ Scpecify Date + Time ]
+        - Similar to Normal Todo "One Time task"
+    - Reminders ? Motication thing ?
+    - Quotes  , images , Challenges 
+    - Recurring Tasks : 
+        - Task REPEATS every("x") -> 
+
+Snooze feature ? Snooze for 3 times then delete ?
+Subtasks
+Repeat by hour ? 
+Ordering Tasks ?
+Themes ?
+Creating Lists ? But What Would it be helpful for If There is "POOL" ? 
+Badges / Urgent ? / 
+Comparing to all other apps ??? WEB app is Extra Better for you 
+    - Web Sync with Mob and Extension 
+Notification [ Mob && web ]
+    - Should i make it automatic Or Make User Mark It as "Need Notify"
+
+Drag and Drop Like the "TechyTypes One "?

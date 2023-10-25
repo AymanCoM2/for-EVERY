@@ -1,0 +1,8 @@
+1 - Create the Project 'Habitano': 
+    $ composer create-project laravel/laravel Habitano
+
+2 - Setting Up the DB name in the .env File "Habitano" 
+    - And Credintials For the DB 'password'
+    - Removing .env file From the GitIgnore If you Want
+
+3 - 
